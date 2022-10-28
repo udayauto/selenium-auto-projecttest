@@ -11,7 +11,8 @@
 		<classes>
 			<class name="search.LoginApp" />
 			<class name="search.TestCaseSearch" />
-			<class name="search.GuruFormSubmit" />		
+			<class name="search.GuruFormSubmit" />	
+			<class name="search.GuruFormSubmitTest" />		
 		</classes>
 
 	</test> <!-- Test -->	
